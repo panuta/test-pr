@@ -11,9 +11,8 @@ Please include an explanation on what is this PR for
 
 ## Testing
 
-- Describe the testing that was done
-- Please provides a proof that the code in this PR have fixed the issue or perform as expected
-- The proof can be a screenshot, link to results, confirmation from reporter etc.
+- Describe how the testing was done to proof that this PR have fixed the issue or perform as expected
+- Please provide a proof e.g. screenshots, links to results, confirmation from QA or ticket's reporter etc.
 
 ## Following up actions (optional)
 
@@ -22,8 +21,8 @@ Please include an explanation on what is this PR for
 ## Checklist:
 
 - [ ] I have performed self-review of my own code
-- [ ] I have done code formatting to the code I added
-- [ ] I have added appropriate comments and logging to the code
-- [ ] I have added unit tests or integration tests that prove my code works.
-- [ ] I have checked the PR will not affect the release flow or it will pass the release testing.
+- [ ] I have done code formatting per project's standard
+- [ ] I have added appropriate comments and logging
+- [ ] I have added unit tests or integration tests
+- [ ] All PR checks have passed before merging
 - [ ] Remember to squash commits when merging
